@@ -1,0 +1,20 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+
+body {
+    font-family: sans-serif;
+    color: #616161;
+}
+
+h1 {
+    color: #616161;
+}
+
+#header,
+.sidebar {
+    background-color: darkslategray;
+    background-image: none;
+}
