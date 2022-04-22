@@ -19,7 +19,9 @@
         "drupal/bootstrap": "3.24",
         "drupal/core-composer-scaffold": "^9.3",
         "drupal/core-project-message": "^9.3",
-        "drupal/core-recommended": "^9.3"
+        "drupal/core-recommended": "^9.3",
+        "drupal/pathauto": "1.9",
+        "drupal/token": "1.10"
     },
     "conflict": {
         "drupal/drupal": "*"
