@@ -2,69 +2,42 @@
 
 <h1>Projeto Drupal Beca: Catálogo de Filmes</h1>
 
-<p> Practical project using Drupal, with the concepts learned at Beca.</p>
+<p> New project in order to improve the errors of the first one.</p>
 
 Commits: 
 
-1: Com o vídeo:
+1: first commit - composer:
 In this first commit I performed the installation and configuration using Composer
 
-2: Drupal Installation:
+2: Installing Drupal:
 I followed with the installation of Drupal as shown in the video in the first part of Beca. Configuring the bank and site name and access user.
 
-3: Download Modules - Path Auto Ctools Token:
-Download of suggested modules.
+3: Install Bootstrap Theme:
+Download ans Install Bootstrap with composer.
 
-4: Install - Path Auto Ctools Token:
-Install - Path Auto Ctools Token.
+4: learn subtheme:
+Create Learn subtheme.
 
-5: Configure Content Types Article and Actor:
-I took advantage of the Article structure to be able to register the films and created the Actors structure to be able to register and link the Actors of the film's cast.
+5: New Content Type - Actor and Movie:
+Create new content type: Actor and Movie.
 
-6: Create content for test:
-Creating a first test content.
+6: Add movie and actors:
+Add all movies and actors.
 
-7: First Display view:
-Preview of the preview that the project requested.
+7: First Manage Display:
+shaping the site view.
 
-8: Add Content:
-Registration of films and actors.
+8: Views:
+Create Home Page, Actors and Movies views.
 
-9: Adding Taxonomy Film Category:
-Relationship between the film and the actors.
+9: New View - custom incons:
+Choosing the best view.
 
-10: Create README.md:
-I created the readme through github. Later I learned that it is possible to do it through Visual Studio.
+10: Add Readme:
+Adding readme to record commits and learnings. 
 
-11: Adding Actors View and update content:
-Actors page view configuration.
-
-12: Merge branch 'main' of github.com:mateus-franco/malvesfrDrupal:
-Having created the readme on github brought up an issue with visual studio but I learned how to fix it.
-
-13: Add and configure Blocks:
-Creation of blocks to improve the visualization of the pages.
-
-14: View Movie:
-Movies page view configuration.
-
-15: Update Views:
-I updated the visualization to be in line with Beca's proposal.
-
-16: Download and Install Bootstrap:
-Baixei e instalei o Bootstrap para dar início ao processo do sub tema. 
-
-17: Very Happygit add . New Subtheme based on Bootstrap:
-That part made me very happy. It was already dawn and I managed to create the subtheme using Bootstrap.
-
-18: Set Subtheme as default:
-I put the Subtheme as default.
-
-19: Configure Blocks in new theme:
-I did the configuration through drupal of the blocks and views I wanted. When I went to make changes to the CSS I made some mistake and I couldn't identify it. My page no longer opens. I had to download another theme to create a new sub-theme.
-
-20: Redoing sub-theme by mistake in the first one:
-As I was going on vacation the following week, I found it most feasible to create a new sub-theme with another theme, as I caused some error with Bootstrap.
+11: Edit Readme:
+Record of commits.
 
 <h1>Conclusion after completion of the practical part of Beca</h1>
 
