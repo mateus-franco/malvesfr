@@ -39,6 +39,10 @@ Adding readme to record commits and learnings.
 11: Edit Readme:
 Record of commits.
 
+12: Database: 
+User: root
+Password: none
+
 <h1>Conclusion after completion of the practical part of Beca</h1>
 
 I was extremely pleased with the way Beca worked. I believe that if I had meetings like the traditional ones, I wouldn't have learned as much as chasing knowledge on my own.
